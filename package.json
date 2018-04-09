@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "botbuilder": "^3.13.0",
-    "date-and-time": "^0.6.1",
+    "botbuilder": "^3.14.1",
+    "date-and-time": "^0.6.2",
     "dotenv-extended": "^2.0.1",
-    "restify": "^6.3.4"
+    "restify": "^6.4.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -16,3 +16,4 @@
   "author": "vilmavictor",
   "license": "ISC"
 }
+
